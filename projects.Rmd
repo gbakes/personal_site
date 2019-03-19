@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+Sometimes I like to do projects and then post them on the internet for the whole world to benefit!
+here's some examples. 
+
+## [Project 1](https://google.com)
+
+- A great project that showcases ...
+
+## [Project 2](https://google.com)
+
+- An API integration ...
